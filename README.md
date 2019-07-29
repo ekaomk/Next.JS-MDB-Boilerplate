@@ -1,6 +1,6 @@
 
 # Next.JS-MDB-Boilerplate
-This is boilerplate for jump start with Next.JS with MDBootstrap
+This is boilerplate for jump start with Next.JS with MDBootstrap  
 [Next.JS Documentation](https://nextjs.org/docs)  
 [MDBootstrap Documentation](https://mdbootstrap.com/docs/react)  
 ## Node js
